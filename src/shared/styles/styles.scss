@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+$font-stack: "Lato", sans-serif;
+$primary-color: rgb(38, 54, 69); // blue
+$secondary-color: rgb(63, 174, 239); //highlight blue
+
+html,
+body {
+    margin: 0;
+}
+
+.app {
+    text-align: center;
+    width: 100%;
+}
+
+.body {
+    font: 100% $font-stack;
+    font-size: calc(10px + 1vmin);
+}
