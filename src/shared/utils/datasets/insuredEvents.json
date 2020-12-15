@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "policyHolderId": 47,
+    "doi": "2019-06-27",
+    "type": "Urticaceae",
+    "billedAmount": 672115,
+    "coveredAmount": 78686
+  },
+  {
+    "id": 2,
+    "policyHolderId": 32,
+    "doi": "2010-07-11",
+    "type": "Asteraceae",
+    "billedAmount": 560889,
+    "coveredAmount": 87410
+  },
+  {
+    "id": 3,
+    "policyHolderId": 28,
+    "doi": "2010-07-25",
+    "type": "Parmeliaceae",
+    "billedAmount": 552971,
+    "coveredAmount": 85684
+  },
+  {
+    "id": 4,
+    "policyHolderId": 9,
+    "doi": "2018-08-29",
+    "type": "Asteraceae",
+    "billedAmount": 952065,
+    "coveredAmount": 27700
+  },
+  {
+    "id": 5,
+    "policyHolderId": 12,
+    "doi": "2010-12-29",
+    "type": "Convolvulaceae",
+    "billedAmount": 891741,
+    "coveredAmount": 42203
+  },
+  {
+    "id": 6,
+    "policyHolderId": 39,
+    "doi": "2017-08-15",
+    "type": "Asteraceae",
+    "billedAmount": 656435,
+    "coveredAmount": 40346
+  },
+  {
+    "id": 7,
+    "policyHolderId": 28,
+    "doi": "2014-11-21",
+    "type": "Viscaceae",
+    "billedAmount": 313968,
+    "coveredAmount": 9756
+  },
+  {
+    "id": 8,
+    "policyHolderId": 24,
+    "doi": "2010-07-22",
+    "type": "Dennstaedtiaceae",
+    "billedAmount": 210585,
+    "coveredAmount": 66854
+  },
+  {
+    "id": 9,
+    "policyHolderId": 23,
+    "doi": "2020-09-18",
+    "type": "Myrtaceae",
+    "billedAmount": 102260,
+    "coveredAmount": 85995
+  },
+  {
+    "id": 10,
+    "policyHolderId": 17,
+    "doi": "2017-08-29",
+    "type": "Asclepiadaceae",
+    "billedAmount": 128734,
+    "coveredAmount": 72066
+  },
+  {
+    "id": 11,
+    "policyHolderId": 8,
+    "doi": "2013-11-23",
+    "type": "Vitaceae",
+    "billedAmount": 801192,
+    "coveredAmount": 93548
+  },
+  {
+    "id": 12,
+    "policyHolderId": 37,
+    "doi": "2018-11-25",
+    "type": "Rosaceae",
+    "billedAmount": 772654,
+    "coveredAmount": 55056
+  },
+  {
+    "id": 13,
+    "policyHolderId": 7,
+    "doi": "2011-08-22",
+    "type": "Rosaceae",
+    "billedAmount": 750203,
+    "coveredAmount": 98346
+  },
+  {
+    "id": 14,
+    "policyHolderId": 23,
+    "doi": "2014-06-19",
+    "type": "Asteraceae",
+    "billedAmount": 692449,
+    "coveredAmount": 4582
+  },
+  {
+    "id": 15,
+    "policyHolderId": 39,
+    "doi": "2016-12-09",
+    "type": "Arthoniaceae",
+    "billedAmount": 39583,
+    "coveredAmount": 46222
+  },
+  {
+    "id": 16,
+    "policyHolderId": 49,
+    "doi": "2020-05-20",
+    "type": "Myrtaceae",
+    "billedAmount": 796177,
+    "coveredAmount": 59237
+  },
+  {
+    "id": 17,
+    "policyHolderId": 35,
+    "doi": "2009-11-20",
+    "type": "Ophioglossaceae",
+    "billedAmount": 362448,
+    "coveredAmount": 68662
+  },
+  {
+    "id": 18,
+    "policyHolderId": 24,
+    "doi": "2016-02-22",
+    "type": "Asteraceae",
+    "billedAmount": 468397,
+    "coveredAmount": 22930
+  },
+  {
+    "id": 19,
+    "policyHolderId": 7,
+    "doi": "2013-03-04",
+    "type": "Scrophulariaceae",
+    "billedAmount": 388597,
+    "coveredAmount": 1444
+  },
+  {
+    "id": 20,
+    "policyHolderId": 22,
+    "doi": "2019-08-27",
+    "type": "Polygonaceae",
+    "billedAmount": 793147,
+    "coveredAmount": 72466
+  },
+  {
+    "id": 21,
+    "policyHolderId": 2,
+    "doi": "2014-05-23",
+    "type": "Cyperaceae",
+    "billedAmount": 675365,
+    "coveredAmount": 53919
+  },
+  {
+    "id": 22,
+    "policyHolderId": 1,
+    "doi": "2015-06-12",
+    "type": "Polemoniaceae",
+    "billedAmount": 576970,
+    "coveredAmount": 68474
+  },
+  {
+    "id": 23,
+    "policyHolderId": 1,
+    "doi": "2019-08-22",
+    "type": "Rosaceae",
+    "billedAmount": 68822,
+    "coveredAmount": 82218
+  },
+  {
+    "id": 24,
+    "policyHolderId": 28,
+    "doi": "2017-08-13",
+    "type": "Cactaceae",
+    "billedAmount": 64611,
+    "coveredAmount": 67530
+  },
+  {
+    "id": 25,
+    "policyHolderId": 2,
+    "doi": "2012-01-05",
+    "type": "Polygalaceae",
+    "billedAmount": 122794,
+    "coveredAmount": 31326
+  },
+  {
+    "id": 26,
+    "policyHolderId": 48,
+    "doi": "2020-10-09",
+    "type": "Polygonaceae",
+    "billedAmount": 702306,
+    "coveredAmount": 54730
+  },
+  {
+    "id": 27,
+    "policyHolderId": 25,
+    "doi": "2020-03-16",
+    "type": "Scrophulariaceae",
+    "billedAmount": 734792,
+    "coveredAmount": 49808
+  },
+  {
+    "id": 28,
+    "policyHolderId": 27,
+    "doi": "2008-12-18",
+    "type": "Oleaceae",
+    "billedAmount": 919934,
+    "coveredAmount": 8998
+  },
+  {
+    "id": 29,
+    "policyHolderId": 28,
+    "doi": "2018-01-14",
+    "type": "Polygonaceae",
+    "billedAmount": 671848,
+    "coveredAmount": 35773
+  },
+  {
+    "id": 30,
+    "policyHolderId": 15,
+    "doi": "2016-06-13",
+    "type": "Loasaceae",
+    "billedAmount": 874904,
+    "coveredAmount": 216
+  },
+  {
+    "id": 31,
+    "policyHolderId": 50,
+    "doi": "2018-09-17",
+    "type": "Crassulaceae",
+    "billedAmount": 668517,
+    "coveredAmount": 22843
+  },
+  {
+    "id": 32,
+    "policyHolderId": 30,
+    "doi": "2018-05-02",
+    "type": "Menyanthaceae",
+    "billedAmount": 202275,
+    "coveredAmount": 64575
+  },
+  {
+    "id": 33,
+    "policyHolderId": 50,
+    "doi": "2009-06-29",
+    "type": "Ranunculaceae",
+    "billedAmount": 860245,
+    "coveredAmount": 73936
+  },
+  {
+    "id": 34,
+    "policyHolderId": 24,
+    "doi": "2017-02-06",
+    "type": "Berberidaceae",
+    "billedAmount": 976470,
+    "coveredAmount": 94340
+  },
+  {
+    "id": 35,
+    "policyHolderId": 32,
+    "doi": "2019-08-29",
+    "type": "Dryopteridaceae",
+    "billedAmount": 849030,
+    "coveredAmount": 99239
+  },
+  {
+    "id": 36,
+    "policyHolderId": 25,
+    "doi": "2013-04-29",
+    "type": "Asteraceae",
+    "billedAmount": 256750,
+    "coveredAmount": 87822
+  },
+  {
+    "id": 37,
+    "policyHolderId": 6,
+    "doi": "2010-05-12",
+    "type": "Euphorbiaceae",
+    "billedAmount": 221584,
+    "coveredAmount": 67209
+  },
+  {
+    "id": 38,
+    "policyHolderId": 43,
+    "doi": "2009-01-12",
+    "type": "Euphorbiaceae",
+    "billedAmount": 950975,
+    "coveredAmount": 94614
+  },
+  {
+    "id": 39,
+    "policyHolderId": 28,
+    "doi": "2015-06-06",
+    "type": "Fabaceae",
+    "billedAmount": 147288,
+    "coveredAmount": 62746
+  },
+  {
+    "id": 40,
+    "policyHolderId": 48,
+    "doi": "2020-03-25",
+    "type": "Poaceae",
+    "billedAmount": 972412,
+    "coveredAmount": 54933
+  },
+  {
+    "id": 41,
+    "policyHolderId": 46,
+    "doi": "2017-11-20",
+    "type": "Collemataceae",
+    "billedAmount": 681586,
+    "coveredAmount": 54624
+  },
+  {
+    "id": 42,
+    "policyHolderId": 35,
+    "doi": "2009-03-08",
+    "type": "Cactaceae",
+    "billedAmount": 491723,
+    "coveredAmount": 8892
+  },
+  {
+    "id": 43,
+    "policyHolderId": 48,
+    "doi": "2014-10-20",
+    "type": "Caryophyllaceae",
+    "billedAmount": 406573,
+    "coveredAmount": 2357
+  },
+  {
+    "id": 44,
+    "policyHolderId": 11,
+    "doi": "2013-01-23",
+    "type": "Amaranthaceae",
+    "billedAmount": 323592,
+    "coveredAmount": 70287
+  },
+  {
+    "id": 45,
+    "policyHolderId": 33,
+    "doi": "2014-03-15",
+    "type": "Brassicaceae",
+    "billedAmount": 125502,
+    "coveredAmount": 52772
+  },
+  {
+    "id": 46,
+    "policyHolderId": 5,
+    "doi": "2010-04-26",
+    "type": "Melastomataceae",
+    "billedAmount": 310460,
+    "coveredAmount": 33418
+  },
+  {
+    "id": 47,
+    "policyHolderId": 33,
+    "doi": "2020-01-05",
+    "type": "Gentianaceae",
+    "billedAmount": 496922,
+    "coveredAmount": 55393
+  },
+  {
+    "id": 48,
+    "policyHolderId": 6,
+    "doi": "2012-05-16",
+    "type": "Moraceae",
+    "billedAmount": 983330,
+    "coveredAmount": 92224
+  },
+  {
+    "id": 49,
+    "policyHolderId": 21,
+    "doi": "2014-09-27",
+    "type": "Fabaceae",
+    "billedAmount": 846138,
+    "coveredAmount": 29487
+  },
+  {
+    "id": 50,
+    "policyHolderId": 6,
+    "doi": "2011-09-15",
+    "type": "Piperaceae",
+    "billedAmount": 519233,
+    "coveredAmount": 89204
+  },
+  {
+    "id": 51,
+    "policyHolderId": 23,
+    "doi": "2019-01-16",
+    "type": "Boraginaceae",
+    "billedAmount": 604679,
+    "coveredAmount": 86310
+  },
+  {
+    "id": 52,
+    "policyHolderId": 3,
+    "doi": "2010-04-08",
+    "type": "Hydrophyllaceae",
+    "billedAmount": 544065,
+    "coveredAmount": 33158
+  },
+  {
+    "id": 53,
+    "policyHolderId": 35,
+    "doi": "2014-10-10",
+    "type": "Cyperaceae",
+    "billedAmount": 407833,
+    "coveredAmount": 52150
+  },
+  {
+    "id": 54,
+    "policyHolderId": 17,
+    "doi": "2011-11-16",
+    "type": "Arecaceae",
+    "billedAmount": 346527,
+    "coveredAmount": 23657
+  },
+  {
+    "id": 55,
+    "policyHolderId": 24,
+    "doi": "2009-08-16",
+    "type": "Fabaceae",
+    "billedAmount": 383873,
+    "coveredAmount": 60537
+  },
+  {
+    "id": 56,
+    "policyHolderId": 26,
+    "doi": "2011-06-28",
+    "type": "Asteraceae",
+    "billedAmount": 144594,
+    "coveredAmount": 29955
+  },
+  {
+    "id": 57,
+    "policyHolderId": 43,
+    "doi": "2013-02-10",
+    "type": "Asteraceae",
+    "billedAmount": 553090,
+    "coveredAmount": 13373
+  },
+  {
+    "id": 58,
+    "policyHolderId": 33,
+    "doi": "2020-09-07",
+    "type": "Araceae",
+    "billedAmount": 173662,
+    "coveredAmount": 75279
+  },
+  {
+    "id": 59,
+    "policyHolderId": 13,
+    "doi": "2019-06-02",
+    "type": "Juncaceae",
+    "billedAmount": 70665,
+    "coveredAmount": 92371
+  },
+  {
+    "id": 60,
+    "policyHolderId": 21,
+    "doi": "2020-01-27",
+    "type": "Scrophulariaceae",
+    "billedAmount": 765560,
+    "coveredAmount": 36470
+  },
+  {
+    "id": 61,
+    "policyHolderId": 6,
+    "doi": "2016-05-30",
+    "type": "Fabaceae",
+    "billedAmount": 42858,
+    "coveredAmount": 96799
+  },
+  {
+    "id": 62,
+    "policyHolderId": 39,
+    "doi": "2019-08-13",
+    "type": "Saxifragaceae",
+    "billedAmount": 335275,
+    "coveredAmount": 41645
+  },
+  {
+    "id": 63,
+    "policyHolderId": 39,
+    "doi": "2018-02-27",
+    "type": "Orchidaceae",
+    "billedAmount": 547617,
+    "coveredAmount": 39668
+  },
+  {
+    "id": 64,
+    "policyHolderId": 47,
+    "doi": "2010-10-11",
+    "type": "Caryophyllaceae",
+    "billedAmount": 679762,
+    "coveredAmount": 13563
+  },
+  {
+    "id": 65,
+    "policyHolderId": 47,
+    "doi": "2019-11-22",
+    "type": "Poaceae",
+    "billedAmount": 15771,
+    "coveredAmount": 64098
+  },
+  {
+    "id": 66,
+    "policyHolderId": 41,
+    "doi": "2014-01-20",
+    "type": "Hydrocharitaceae",
+    "billedAmount": 489683,
+    "coveredAmount": 29981
+  },
+  {
+    "id": 67,
+    "policyHolderId": 1,
+    "doi": "2012-09-21",
+    "type": "Ericaceae",
+    "billedAmount": 680586,
+    "coveredAmount": 4721
+  },
+  {
+    "id": 68,
+    "policyHolderId": 33,
+    "doi": "2012-02-24",
+    "type": "Asteraceae",
+    "billedAmount": 544857,
+    "coveredAmount": 36987
+  },
+  {
+    "id": 69,
+    "policyHolderId": 45,
+    "doi": "2013-01-27",
+    "type": "Polygonaceae",
+    "billedAmount": 592161,
+    "coveredAmount": 26521
+  },
+  {
+    "id": 70,
+    "policyHolderId": 25,
+    "doi": "2019-07-22",
+    "type": "Ranunculaceae",
+    "billedAmount": 893363,
+    "coveredAmount": 35019
+  },
+  {
+    "id": 71,
+    "policyHolderId": 35,
+    "doi": "2020-06-17",
+    "type": "Stereocaulaceae",
+    "billedAmount": 562972,
+    "coveredAmount": 13594
+  },
+  {
+    "id": 72,
+    "policyHolderId": 4,
+    "doi": "2019-09-30",
+    "type": "Malvaceae",
+    "billedAmount": 901703,
+    "coveredAmount": 38344
+  },
+  {
+    "id": 73,
+    "policyHolderId": 44,
+    "doi": "2010-04-26",
+    "type": "Euphorbiaceae",
+    "billedAmount": 754033,
+    "coveredAmount": 6174
+  },
+  {
+    "id": 74,
+    "policyHolderId": 48,
+    "doi": "2012-01-12",
+    "type": "Grossulariaceae",
+    "billedAmount": 796434,
+    "coveredAmount": 8157
+  },
+  {
+    "id": 75,
+    "policyHolderId": 32,
+    "doi": "2009-08-29",
+    "type": "Poaceae",
+    "billedAmount": 775890,
+    "coveredAmount": 69071
+  },
+  {
+    "id": 76,
+    "policyHolderId": 38,
+    "doi": "2016-04-02",
+    "type": "Poaceae",
+    "billedAmount": 635845,
+    "coveredAmount": 69866
+  },
+  {
+    "id": 77,
+    "policyHolderId": 23,
+    "doi": "2009-08-16",
+    "type": "Malvaceae",
+    "billedAmount": 873778,
+    "coveredAmount": 23886
+  },
+  {
+    "id": 78,
+    "policyHolderId": 41,
+    "doi": "2014-04-25",
+    "type": "Asteraceae",
+    "billedAmount": 149819,
+    "coveredAmount": 43328
+  },
+  {
+    "id": 79,
+    "policyHolderId": 46,
+    "doi": "2013-12-04",
+    "type": "Graphidaceae",
+    "billedAmount": 341773,
+    "coveredAmount": 5485
+  },
+  {
+    "id": 80,
+    "policyHolderId": 42,
+    "doi": "2013-02-28",
+    "type": "Rhizocarpaceae",
+    "billedAmount": 407128,
+    "coveredAmount": 828
+  },
+  {
+    "id": 81,
+    "policyHolderId": 26,
+    "doi": "2009-03-12",
+    "type": "Caryophyllaceae",
+    "billedAmount": 789796,
+    "coveredAmount": 7826
+  },
+  {
+    "id": 82,
+    "policyHolderId": 48,
+    "doi": "2017-10-30",
+    "type": "Casuarinaceae",
+    "billedAmount": 387402,
+    "coveredAmount": 11260
+  },
+  {
+    "id": 83,
+    "policyHolderId": 34,
+    "doi": "2013-12-18",
+    "type": "Arecaceae",
+    "billedAmount": 386028,
+    "coveredAmount": 23184
+  },
+  {
+    "id": 84,
+    "policyHolderId": 44,
+    "doi": "2020-11-09",
+    "type": "Gentianaceae",
+    "billedAmount": 311335,
+    "coveredAmount": 21426
+  },
+  {
+    "id": 85,
+    "policyHolderId": 38,
+    "doi": "2010-11-02",
+    "type": "Malvaceae",
+    "billedAmount": 48132,
+    "coveredAmount": 69968
+  },
+  {
+    "id": 86,
+    "policyHolderId": 33,
+    "doi": "2010-01-01",
+    "type": "Aizoaceae",
+    "billedAmount": 595225,
+    "coveredAmount": 62379
+  },
+  {
+    "id": 87,
+    "policyHolderId": 32,
+    "doi": "2015-07-12",
+    "type": "Asteraceae",
+    "billedAmount": 757610,
+    "coveredAmount": 12037
+  },
+  {
+    "id": 88,
+    "policyHolderId": 50,
+    "doi": "2014-10-08",
+    "type": "Brassicaceae",
+    "billedAmount": 395913,
+    "coveredAmount": 48540
+  },
+  {
+    "id": 89,
+    "policyHolderId": 2,
+    "doi": "2019-02-25",
+    "type": "Rosaceae",
+    "billedAmount": 335,
+    "coveredAmount": 58211
+  },
+  {
+    "id": 90,
+    "policyHolderId": 4,
+    "doi": "2015-12-02",
+    "type": "Malvaceae",
+    "billedAmount": 902536,
+    "coveredAmount": 91680
+  },
+  {
+    "id": 91,
+    "policyHolderId": 34,
+    "doi": "2020-10-17",
+    "type": "Amaranthaceae",
+    "billedAmount": 860936,
+    "coveredAmount": 56443
+  },
+  {
+    "id": 92,
+    "policyHolderId": 8,
+    "doi": "2013-05-07",
+    "type": "Melastomataceae",
+    "billedAmount": 190340,
+    "coveredAmount": 25662
+  },
+  {
+    "id": 93,
+    "policyHolderId": 4,
+    "doi": "2011-07-15",
+    "type": "Polygonaceae",
+    "billedAmount": 291332,
+    "coveredAmount": 83805
+  },
+  {
+    "id": 94,
+    "policyHolderId": 38,
+    "doi": "2019-12-04",
+    "type": "Myrsinaceae",
+    "billedAmount": 844936,
+    "coveredAmount": 58905
+  },
+  {
+    "id": 95,
+    "policyHolderId": 15,
+    "doi": "2016-05-22",
+    "type": "Asteraceae",
+    "billedAmount": 317926,
+    "coveredAmount": 78840
+  },
+  {
+    "id": 96,
+    "policyHolderId": 47,
+    "doi": "2019-04-29",
+    "type": "Fabaceae",
+    "billedAmount": 781075,
+    "coveredAmount": 64536
+  },
+  {
+    "id": 97,
+    "policyHolderId": 29,
+    "doi": "2010-05-18",
+    "type": "Moraceae",
+    "billedAmount": 996737,
+    "coveredAmount": 16386
+  },
+  {
+    "id": 98,
+    "policyHolderId": 41,
+    "doi": "2018-06-03",
+    "type": "Caprifoliaceae",
+    "billedAmount": 208994,
+    "coveredAmount": 34210
+  },
+  {
+    "id": 99,
+    "policyHolderId": 27,
+    "doi": "2016-03-26",
+    "type": "Saxifragaceae",
+    "billedAmount": 418840,
+    "coveredAmount": 68078
+  },
+  {
+    "id": 100,
+    "policyHolderId": 15,
+    "doi": "2014-06-19",
+    "type": "Apiaceae",
+    "billedAmount": 839935,
+    "coveredAmount": 19736
+  }
+]
