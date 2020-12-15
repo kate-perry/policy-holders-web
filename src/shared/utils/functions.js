@@ -10,3 +10,8 @@ export function getInsuredEventsForPolicyHolderId(
   });
   return foundInsuredEvents;
 }
+
+export function getTotalCoveredAmount(insuredEvents) {
+  let sum = _.sumBy(insuredEvents, "coveredAmount");
+  return sum;
+}

@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import InsuredEventData from "../shared/utils/datasets/insuredEvents.json";
-import { getInsuredEventsForPolicyHolderId } from "../shared/utils/functions/functions.js";
+import { getInsuredEventsForPolicyHolderId } from "../shared/utils/functions.js";
 import history from "../shared/utils/history";
 
 class PolicyHolderCard extends Component {
