@@ -1,13 +1,21 @@
 import "../shared/styles/styles.scss";
 import { Component } from "react";
-import Header from "../features/Header";
+import PolicyHolderCard from "../features/PolicyHolderCard";
+import { GridList, GridListTile } from "@material-ui/core";
+import PolicyHolderData from "../shared/utils/datasets/policyHolders.json";
 
 class PolicyHolders extends Component {
+  componentDidMount() {}
+
   render() {
     return (
-      <div className="app">
-        <Header />
-      </div>
+      <GridList cellHeight={180} cols={3}>
+        {PolicyHolderData.map((policyHolder) => (
+          <GridListTile key={policyHolder.id}>
+            <PolicyHolderCard policyHolder={policyHolder} />
+          </GridListTile>
+        ))}
+      </GridList>
     );
   }
 }
