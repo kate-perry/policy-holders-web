@@ -1,13 +1,14 @@
-# Welcome to the Front-End of the Policy Holder Management System!
+# Welcome to the Policy Holder Management System!
 
 ## To Run Locally...
-1. Run `npm install`
-2. Run `npm start`
+1. Clone project and confirm you have the `master` branch pulled down.
+2. Run `npm install`
+3. Run `npm start`
 
 ## About This System
 This app was built with React, routed with React Router, styled by Material UI, and prepared to connect to an API with Axios.
 
-The acompanying back-end to this system can be found in [policy-holders-api](https://github.com/kate-perry/policy-holders-api), where you will see the ghosts of Policy Holder API-past. Intended to run on a back-end of Django and MongoDB, the final connection was scrapped due to time constraints. This web app is currently running on mocked datasets saved in /utils.
+The acompanying back-end to this system can be found in [policy-holders-api](https://github.com/kate-perry/policy-holders-api), where you will see the ghosts of Policy Holder API-past. Intended to run on a back-end of Django and MongoDB, the final connection was scrapped due to time constraints (plus, running MongoDB locally requires you to have MongoDB installed, and I shouldn't assume your setup). This web app is currently running on mocked datasets saved in /utils.
 
 ## Project Status
 - [ ] As a User, I would like to view aggregated metrics for all policy holders so that I can understand our insured pool data.
