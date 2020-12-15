@@ -26,6 +26,7 @@ class AddPolicyHolder extends Component {
       coveredAmount: 0,
     };
   }
+  
   componentDidMount() {}
 
   handleAddPolicyHolderClick() {

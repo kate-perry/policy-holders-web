@@ -5,7 +5,6 @@ import {
   Grid,
   Typography,
 } from "@material-ui/core";
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
 const moneyFormatter = new Intl.NumberFormat('en-US', {
   style: 'currency',
