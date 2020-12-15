@@ -6,6 +6,10 @@ import Routes from "./Routes";
 import { Grid } from "@material-ui/core";
 
 class App extends Component {
+  componentDidMount() {
+    // TODO post policy holder and insured events data
+  }
+
   render() {
     return (
       <div className="app">

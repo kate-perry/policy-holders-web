@@ -13,7 +13,7 @@ import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 class PolicyHolderCard extends Component {
   render() {
     return (
-      <Card variant="outlined">
+      <Card variant="outlined" style={{ height: "98%" }}>
         <Grid container direction="column">
           <Grid container direction="row">
             <Grid item xs={2}>
@@ -23,51 +23,50 @@ class PolicyHolderCard extends Component {
             </Grid>
             <Grid item xs={10}></Grid>
             <Grid container direction="column">
-              <Accordion>
-                <AccordionSummary>
-                  {" "}
-                  <Typography variant="subtitle1" align="left">
+              <Accordion elevation={0}>
+                <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+                  <Typography variant="h6" align="left">
                     Policy Holder Information
                   </Typography>
                 </AccordionSummary>
                 <AccordionDetails>
-                  <Typography variant="subtitle1" align="left">
-                    Policy Holder Information
-                  </Typography>
-                  <Typography variant="subtitle1" align="left">
-                    Gender: {this.props.policyHolder.gender}
-                  </Typography>
-                  <Typography variant="subtitle1" align="left">
-                    Date of Birth: {this.props.policyHolder.dob}
-                  </Typography>
-                  <Typography variant="subtitle1">
-                    SSN: {this.props.policyHolder.ssn}
-                  </Typography>
+                  <Grid container direction="column">
+                    <Typography variant="subtitle1" align="left">
+                      Gender: {this.props.policyHolder.gender}
+                    </Typography>
+                    <Typography variant="subtitle1" align="left">
+                      Date of Birth: {this.props.policyHolder.dob}
+                    </Typography>
+                    <Typography variant="subtitle1" align="left">
+                      SSN: {this.props.policyHolder.ssn}
+                    </Typography>
+                  </Grid>
                 </AccordionDetails>
               </Accordion>
             </Grid>
           </Grid>
           <Grid container direction="column">
-            <Accordion>
-              <AccordionSummary>
-                {" "}
-                <Typography variant="subtitle1" align="left">
+            <Accordion elevation={0}>
+              <AccordionSummary expandIcon={<ExpandMoreIcon />}>
+                <Typography variant="h6" align="left">
                   Health Information
                 </Typography>
               </AccordionSummary>
               <AccordionDetails>
-                <Typography variant="subtitle1">
-                  {this.props.policyHolder.smokingStatus
-                    ? "Smoking"
-                    : "Non-Smoking"}
-                </Typography>
-                <Typography variant="subtitle1">
-                  Allergies: {this.props.policyHolder.allergies}
-                </Typography>
-                <Typography variant="subtitle1">
-                  Medical Conditions:{" "}
-                  {this.props.policyHolder.medicalConditions}
-                </Typography>
+                <Grid container direction="column">
+                  <Typography variant="subtitle1" align="left">
+                    {this.props.policyHolder.smokingStatus
+                      ? "Smoking"
+                      : "Non-Smoking"}
+                  </Typography>
+                  <Typography variant="subtitle1" align="left">
+                    Allergies: {this.props.policyHolder.allergies}
+                  </Typography>
+                  <Typography variant="subtitle1" align="left">
+                    Medical Conditions:{" "}
+                    {this.props.policyHolder.medicalConditions}
+                  </Typography>
+                </Grid>
               </AccordionDetails>
             </Accordion>
           </Grid>

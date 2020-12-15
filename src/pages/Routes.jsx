@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Router, Switch, Route } from "react-router-dom";
 import About from "./About";
+import AddPolicyHolder from "./AddPolicyHolder";
 import PolicyHolders from "./PolicyHolders";
 import InsuredEvents from "./InsuredEvents";
 import Analysis from "./Analysis";
@@ -15,6 +16,7 @@ class Routes extends Component {
           <Route exact path="/policyholders" component={PolicyHolders} />
           <Route exact path="/insuredevents" component={InsuredEvents} />
           <Route exact path="/analysis" component={Analysis} />
+          <Route exact path="/policyholders/add" component={AddPolicyHolder} />
         </Switch>
       </Router>
     );
