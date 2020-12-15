@@ -1,7 +1,7 @@
 # Welcome to the Policy Holder Management System!
 
 ## To Run Locally...
-1. Clone project and confirm you have the `master` branch pulled down.
+1. Clone project and confirm you have the `master` branch pulled down
 2. Run `npm install`
 3. Run `npm start`
 
