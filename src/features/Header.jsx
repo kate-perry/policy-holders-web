@@ -9,7 +9,7 @@ class Header extends Component {
         <Toolbar>
           <Grid container direction="row">
             <Grid item xs={12}>
-              <Grid container justify="left" alignItems="center" style={{ height: "100%" }}>
+              <Grid container justify="flex-start" alignItems="center" style={{ height: "100%" }}>
                 <Typography variant="h4" align="center">
                   Policy Holder Management System
                 </Typography>
