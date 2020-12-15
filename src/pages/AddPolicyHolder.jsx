@@ -91,23 +91,21 @@ class AddPolicyHolder extends Component {
                   <MenuItem value="other">Other</MenuItem>
                 </Select>
               </FormControl>
-              <FormControl variant="outlined">
-                <MuiPickersUtilsProvider utils={MomentUtils}>
-                  <KeyboardDatePicker
-                    disableToolbar
-                    variant="inline"
-                    format="MM/DD/yyyy"
-                    margin="normal"
-                    id="date-picker-inline"
-                    label="Date Of Birth"
-                    value={this.state.dob}
-                    onChange={(e) => this.handleDateChange(e)}
-                    KeyboardButtonProps={{
-                      "aria-label": "change date",
-                    }}
-                  />
-                </MuiPickersUtilsProvider>
-              </FormControl>
+              <MuiPickersUtilsProvider utils={MomentUtils}>
+                <KeyboardDatePicker
+                  disableToolbar
+                  variant="inline"
+                  format="MM/DD/yyyy"
+                  margin="normal"
+                  id="date-picker-inline"
+                  label="Date Of Birth"
+                  value={this.state.dob}
+                  onChange={(e) => this.handleDateChange(e)}
+                  KeyboardButtonProps={{
+                    "aria-label": "change date",
+                  }}
+                />
+              </MuiPickersUtilsProvider>
               <Grid item>
                 <div className="space--xs" />
               </Grid>
@@ -148,7 +146,7 @@ class AddPolicyHolder extends Component {
                   multiline
                   fullWidth
                   rows="4"
-                  rowsMaz="6"
+                  rowsMax="6"
                   id="allergies"
                   label="Allergies"
                   variant="outlined"
@@ -164,7 +162,7 @@ class AddPolicyHolder extends Component {
                   multiline
                   fullWidth
                   rows="4"
-                  rowsMaz="6"
+                  rowsMax="6"
                   id="medical-conditions"
                   label="Medical Conditions"
                   variant="outlined"
