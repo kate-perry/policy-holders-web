@@ -21,11 +21,29 @@ class InsuredEvents extends Component {
   }
 
   componentDidMount() {
-    if (this.props.location.state.policyHolderId && this.props.location.state.insuredEvents) {
-      let newTitle = "Insured Events for Policy Holder " + this.props.location.state.policyHolderId;
-      this.setState({ title: newTitle, insuredEvents: this.props.location.state.insuredEvents })
+    if (this.props.location && this.props.location.state) {
+      if (
+        this.props.location.state.policyHolderId &&
+        this.props.location.state.insuredEvents
+      ) {
+        let newTitle =
+          "Insured Events for Policy Holder " +
+          this.props.location.state.policyHolderId;
+        this.setState({
+          title: newTitle,
+          insuredEvents: this.props.location.state.insuredEvents,
+        });
+      } else {
+        this.setState({
+          title: "Insured Events for All Policy Holders",
+          insuredEvents: InsuredEventData,
+        });
+      }
     } else {
-      this.setState({ title: "Insured Events for All Policy Holders", insuredEvents: InsuredEventData })
+      this.setState({
+        title: "Insured Events for All Policy Holders",
+        insuredEvents: InsuredEventData,
+      });
     }
   }
 
@@ -37,7 +55,11 @@ class InsuredEvents extends Component {
         </Grid>
         <Grid item>
           <Grid container justify="flex-end">
-            <Button variant="contained" color="primary" onClick={() => history.push("/insuredevents/add")}>
+            <Button
+              variant="contained"
+              color="primary"
+              onClick={() => history.push("/insuredevents/add")}
+            >
               Add Insured Event
             </Button>
           </Grid>
