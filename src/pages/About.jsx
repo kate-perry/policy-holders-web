@@ -13,7 +13,7 @@ class About extends Component {
         </Grid>
         <Grid item xs={12}>
           <Typography variant="subtitle1">
-            Use the tabs to the left to navigate the app.
+            Use the buttons to the left to navigate the app. Manage Policy Holders and Insured Events, plus view KPIs in the Analytics page.
           </Typography>
         </Grid>
       </Grid>

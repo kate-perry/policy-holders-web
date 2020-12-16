@@ -8,6 +8,12 @@ class NavigationTabs extends Component {
     return (
       <Grid container direction="column" spacing={2} style={{ padding: 20 }}>
         <Grid item>
+          <div className="space--xl" />
+        </Grid>
+        <Grid item>
+          <div className="space--xl" />
+        </Grid>
+        <Grid item>
           <Button onClick={() => history.push("/policyholders")}>
             Manage Policy Holders
           </Button>
