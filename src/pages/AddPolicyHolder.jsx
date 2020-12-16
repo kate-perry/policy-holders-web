@@ -33,7 +33,7 @@ class AddPolicyHolder extends Component {
   componentDidMount() {}
 
   handleAddPolicyHolderClick() {
-    // TODO send policy holder information
+    // TODO send policy holder information or write out to policy holder file
     history.push("/policyholders");
   }
 
